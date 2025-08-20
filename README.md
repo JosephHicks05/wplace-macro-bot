@@ -14,8 +14,8 @@ Middle-click while hovering over a square to select its color.
 Once your drawing is done, enter a name in the text field and click save drawing. It can then be loaded later from the "view saved drawings" screen.
 
 ## executing the macro
-To execute a drawing's macro, start by loading into wplace.live and zooming in as far as possible. Then, hit the "-" zoom button once to zoom out a bit. Then align the pixel grid on the website such that there is one pixel whose left side runs along the left side of your screen, and whose top side runs along the bottom of your browser's bookmarks bar/search bar. In other words, one pixel should be "as top left" as it can get while still seeing the whole thing. Then open the paint menu, and from the "view saved drawings" screen of the app, click the "run macro" button for the drawing that you would like to be drawn. Space can be pressed and held at any time to cancel the macro.
+To execute a drawing's macro, start by loading into wplace.live and zooming in as far as possible. Then, hit the "-" zoom button once to zoom out a bit. Then align the pixel grid on the website such that there is one pixel whose left side runs along the left side of your screen, and whose top side runs along the bottom of your browser's bookmarks bar/search bar. In other words, one pixel should be "as top left" as it can get while still seeing the whole thing. Then open the paint menu and enter the "view saved drawings" screen of the app. From there, enter your current number of available paint charges and click the "run macro" button for the drawing that you would like to be drawn. Space can be pressed and held at any time to cancel the macro.
 
 ## creating your own macros
-Running macro.py will launch a command-line program that allows you to record and playback your own macros that support only mouse movement and clicking at a specified polling rate. Available commands are displayed when launched.
+Running macro.py will launch a CLI that allows you to record and playback your own macros that support only mouse movement and clicking at a specified polling rate. Available commands are displayed when launched.
 
