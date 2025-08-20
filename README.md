@@ -1,6 +1,5 @@
 ## wplace-macro-bot
-Pixel art creator and macro creator/runner intended for use creating drawings on the wplace.live website.
-At a high level, the job of this program is to create 2D pixel art using a graphical interface, then execute a series of inputs that automatically draws that pixel art creation on wplace.live.
+Pixel art creator and macro creator/runner made using the Tkinter Python library. This program is intended for use creating drawings on the wplace.live website. At a high level, the job of this program is to create 2D pixel art using a graphical interface, then execute a series of inputs that automatically draws that pixel art creation on wplace.live.
 
 # to use
 Run window.py to open. Enter your preferred drawing dimensions, then either select an image from your computer
