@@ -260,12 +260,4 @@ def get_pixel_positions() -> None:
 
 
 if __name__ == "__main__":
-    from files import read_macro
-
-    get_pixel_positions()
-
-    while True:
-        if is_key_pressed("space"):
-            read_macro("login").playback()
-
-        sleep(.1)
+    edit_macros()
